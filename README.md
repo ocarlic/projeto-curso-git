@@ -3,8 +3,8 @@
 
 ##### Principais comandos do Git
 
-"__git init__ - Inicializar o repositório dentro da estrutura  "  
-"__git clone__ -  "  
+__git init__ - Inicializar o repositório dentro da estrutura    
+__git clone__ -    
 "__git add .__ - Inclui todos os arquivos existentes naquele diretório  "  
 "__git add__ - Inclui apenas o arquivo chamado apos o add, ex: git add index.html  "  
 "__git commit -m 'Mensagem de commit'__ - Salva o estado em que o código fonte está naquele momento  "  
