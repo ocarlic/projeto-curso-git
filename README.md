@@ -1,7 +1,10 @@
 # projeto-curso-git
-### Curso Global Labs
+## Curso Global Labs
 
-##### Principais comandos do Git
+A [Global Labs Academy](https://globallabs.academy/ "Global Labs Academy") é um iniciativa criada pelo SEPROSP, Global Labs e Digital Innovation One com participação fundamental de seus parceiros estratégicos.
+
+
+### Principais comandos do Git
 
 __git init__ - Inicializar o repositório dentro da estrutura    
 __git clone__ - Você consegue clonar o repositório remoto    
@@ -14,10 +17,9 @@ __git merge__ - O comando git merge <<'nome branch'>> É responsábel por mescla
 __git status__ - O comando irá nos mostrar o que foi alterado no diretório  
 __git log__ - Exibe um histórico listando todos os commits que o projeto sofreu até o momento atual     
 __git branch__ - Cria uma nova branch no repositório local    
-
 __touch__ - O comando TOUCH cria um novo arquivo no diretório do repositório
 
-##### Utilizando Git em repositório remoto
+### Utilizando Git em repositório remoto
 __git checkout <<'nome branch'>>__ - Seleciona a branch    
 __git branch -D <<'nome branch'>>__ - Exclui a branch    
 __git remove rm origin__ - Remove o repositório    
