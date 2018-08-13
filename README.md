@@ -25,4 +25,9 @@ __git branch -D <<'nome branch'>>__ - Exclui a branch
 __git remove rm origin__ - Remove o repositório    
 __git push oriign <<'nome branch'>>__ - Envia a branch para o servidor remoto    
 __git push -u origin master__ - Envia todos repositórios pendentes locais (já criados)    
-__git checkout -b <<'nome branch'>>__ - Cria uma nova branch e já troca a referência do origin para a nova branch criada    
+__git checkout -b <<'nome branch'>>__ - Cria uma nova branch e já troca a referência do origin para a nova branch criada 
+
+
+### Exemplo 
+__git checkout -b dev
+__git push -u origin dev 
